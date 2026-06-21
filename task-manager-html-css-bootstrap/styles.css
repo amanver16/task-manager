@@ -1,0 +1,31 @@
+body {
+	margin: 0 !important;
+	padding: 0 !important;
+	background-color: #e4e6e8 !important;
+}
+
+.container-fluid {
+	padding: 0 !important;
+}
+
+.menu-bar {
+	height: 60px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.page-header {
+	margin-top: 80px;
+}
+
+.task-card {
+	height: 60px !important;
+}
+
+.app-footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	
+}
